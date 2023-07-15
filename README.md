@@ -1,6 +1,6 @@
 ### Hi there we are ARTTECH-Brasil
 
-🌱 Working to build solutions to help new business.
+🌱 Working to build solutions to help new bussiness.
 <div>
   <a href="https://github.com/ARTTECH-BR">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiosanchesr&show_icons=true&theme=dark" />
@@ -17,7 +17,7 @@
 
 
 <!--
-**fabiosanchesr/fabiosanchesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fARTTECH-BR/ARTTECH-BR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
