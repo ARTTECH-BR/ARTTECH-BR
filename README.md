@@ -3,10 +3,10 @@
 🌱 Working to build solutions to help new businesses.
 <div>
   <a href="https://github.com/ARTTECH-BR">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ARTTECH-BR&show_icons=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arttech-br&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/ARTTECH-BR">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTTECH-BR&show_icons=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arttech-br&show_icons=true&theme=dark" />
   </a>
 </div>
 
