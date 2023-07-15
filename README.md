@@ -1,12 +1,12 @@
-### Hi there we are ARTTECH-Brasil
+### Hi there, we are ARTTECH-Brasil
 
-🌱 Working to build solutions to help new bussiness.
+🌱 Working to build solutions to help new businesses.
 <div>
   <a href="https://github.com/ARTTECH-BR">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiosanchesr&show_icons=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ARTTECH-BR&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/ARTTECH-BR">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosanchesr&show_icons=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTTECH-BR&show_icons=true&theme=dark" />
   </a>
 </div>
 
@@ -17,7 +17,7 @@
 
 
 <!--
-**fARTTECH-BR/ARTTECH-BR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ARTTECH-BR/ARTTECH-BR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
